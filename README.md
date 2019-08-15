@@ -1,2 +1,4 @@
-# Curriculum
-Curriculum Adriana Ibarra 2019
+# Encabezado tipo 1
+## Encabezado tipo 2
+
+Huelga en la **CCSS**
